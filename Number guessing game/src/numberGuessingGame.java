@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//test
 public class numberGuessingGame
 	{
 
@@ -8,9 +9,7 @@ public class numberGuessingGame
 			
 					{
 			
-					
-					
-					
+			
 					}
 				int randomNumber = (int) (Math.random() *20 + 1);
 		
