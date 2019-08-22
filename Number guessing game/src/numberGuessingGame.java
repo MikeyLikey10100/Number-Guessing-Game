@@ -12,7 +12,7 @@ public class numberGuessingGame
 
 		
 				Scanner userImput = new Scanner(System.in);
-				System.out.println("Guess a number between 1 and 15");
+				System.out.println("Guess a number between 1 and 20");
 				
 				
 
@@ -39,7 +39,7 @@ public class numberGuessingGame
 					
 					if (guess == randomNumber)
 					{
-						System.out.println("your correct. please play again");
+						System.out.println("your correct. Thanks for playing");
 						stillGuessing = false;
 					}
 		
